@@ -1,0 +1,5 @@
+# Environment variables for local Wrangler development
+# Rename this file to .dev.vars (which is gitignored)
+
+SESSION_SECRET="super-secret-key-change-this-in-production-min-32-chars"
+ENVIRONMENT="development"
